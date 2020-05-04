@@ -1,7 +1,7 @@
 # StateBinding
 SWIFTUI Property Wrapper - @State and @binding.  When we need to use state and binding.
 
-<b>What is Property Wrapper in swift.</b>
+<b>What is Property Wrapper in swift.</b></br>
 Property wrappers were introduced in Swift 5.1 to allow users to add additional behavior to properties.
 
 A property wrapper is a generic structure that encapsulates read and write access to the property and adds additional behavior to it
