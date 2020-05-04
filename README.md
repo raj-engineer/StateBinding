@@ -5,7 +5,7 @@ Property wrappers were introduced in Swift 5.1 to allow users to add additional 
 
 A property wrapper is a generic structure that encapsulates read and write access to the property and adds additional behavior to it
 
-*What limitations does the Property wrapper have?*
+<b>What limitations does the Property wrapper have?</b>
 
 Property wrappers come not without their price. They impose a number of restrictions :
 
